@@ -1,0 +1,31 @@
+@page "/studentpage"
+
+<h3>Daftar Mahasiswa</h3>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Student Id</th>
+            <th>Last Name</th>
+            <th>Firts Name</th>
+            <th>Tanggal Pendaftaran</th>
+            <th>Action</th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var stud in Student){
+            <tr>
+                <td>@stud.studentID</td>
+                <td>@stud.lastName</td>
+                <td>@stud.firstName</td>
+                <td>@stud.enrollmentDate</td>
+                <td><a href="@($"studentdetail/{stud.studentID}")" class="btn btn-info">Detail</a>
+                <a href="" class="btn btn-primary">Enrol</a>
+                <a href="@($"editstudent/{stud.studentID}")" class="btn btn-warning">Edit</a>
+                <a href="@($"deletestudent/{stud.studentID}")" class="btn btn-danger">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
