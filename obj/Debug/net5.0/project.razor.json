@@ -41,6 +41,59 @@
         }
       },
       {
+        "HashCode": -1755420517,
+        "Kind": "Components.Component",
+        "Name": "FrontEnd_TAS.Pages.DeleteStudent",
+        "AssemblyName": "FrontEnd_TAS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DeleteStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FrontEnd_TAS.Pages.DeleteStudent"
+        }
+      },
+      {
+        "HashCode": 1185047939,
+        "Kind": "Components.Component",
+        "Name": "FrontEnd_TAS.Pages.DeleteStudent",
+        "AssemblyName": "FrontEnd_TAS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FrontEnd_TAS.Pages.DeleteStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FrontEnd_TAS.Pages.DeleteStudent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1747788643,
         "Kind": "Components.Component",
         "Name": "FrontEnd_TAS.Pages.DetailStudent",
@@ -127,92 +180,6 @@
         }
       },
       {
-        "HashCode": -42052073,
-        "Kind": "Components.Component",
-        "Name": "FrontEnd_TAS.Pages.FetchData",
-        "AssemblyName": "FrontEnd_TAS",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FrontEnd_TAS.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 633060385,
-        "Kind": "Components.Component",
-        "Name": "FrontEnd_TAS.Pages.FetchData",
-        "AssemblyName": "FrontEnd_TAS",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FrontEnd_TAS.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FrontEnd_TAS.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1755420517,
-        "Kind": "Components.Component",
-        "Name": "FrontEnd_TAS.Pages.DeleteStudent",
-        "AssemblyName": "FrontEnd_TAS",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "DeleteStudent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FrontEnd_TAS.Pages.DeleteStudent"
-        }
-      },
-      {
-        "HashCode": 1185047939,
-        "Kind": "Components.Component",
-        "Name": "FrontEnd_TAS.Pages.DeleteStudent",
-        "AssemblyName": "FrontEnd_TAS",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FrontEnd_TAS.Pages.DeleteStudent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FrontEnd_TAS.Pages.DeleteStudent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 711583376,
         "Kind": "Components.Component",
         "Name": "FrontEnd_TAS.Pages.UpdateStudent",
@@ -266,39 +233,6 @@
         }
       },
       {
-        "HashCode": -513080606,
-        "Kind": "Components.Component",
-        "Name": "FrontEnd_TAS.Pages.Index",
-        "AssemblyName": "FrontEnd_TAS",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FrontEnd_TAS.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 1960509042,
-        "Kind": "Components.Component",
-        "Name": "FrontEnd_TAS.Pages.Index",
-        "AssemblyName": "FrontEnd_TAS",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FrontEnd_TAS.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FrontEnd_TAS.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1966847018,
         "Kind": "Components.Component",
         "Name": "FrontEnd_TAS.Pages.Counter",
@@ -332,35 +266,101 @@
         }
       },
       {
-        "HashCode": -536958075,
+        "HashCode": -42052073,
         "Kind": "Components.Component",
-        "Name": "FrontEnd_TAS.App",
+        "Name": "FrontEnd_TAS.Pages.FetchData",
         "AssemblyName": "FrontEnd_TAS",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FrontEnd_TAS.App"
+          "Common.TypeName": "FrontEnd_TAS.Pages.FetchData"
         }
       },
       {
-        "HashCode": 1444239346,
+        "HashCode": 633060385,
         "Kind": "Components.Component",
-        "Name": "FrontEnd_TAS.App",
+        "Name": "FrontEnd_TAS.Pages.FetchData",
         "AssemblyName": "FrontEnd_TAS",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "FrontEnd_TAS.App"
+            "TagName": "FrontEnd_TAS.Pages.FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FrontEnd_TAS.App",
+          "Common.TypeName": "FrontEnd_TAS.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -513080606,
+        "Kind": "Components.Component",
+        "Name": "FrontEnd_TAS.Pages.Index",
+        "AssemblyName": "FrontEnd_TAS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FrontEnd_TAS.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 1960509042,
+        "Kind": "Components.Component",
+        "Name": "FrontEnd_TAS.Pages.Index",
+        "AssemblyName": "FrontEnd_TAS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FrontEnd_TAS.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FrontEnd_TAS.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -312287342,
+        "Kind": "Components.Component",
+        "Name": "FrontEnd_TAS.Pages.EnrollmentPages",
+        "AssemblyName": "FrontEnd_TAS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EnrollmentPages"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FrontEnd_TAS.Pages.EnrollmentPages"
+        }
+      },
+      {
+        "HashCode": 625338492,
+        "Kind": "Components.Component",
+        "Name": "FrontEnd_TAS.Pages.EnrollmentPages",
+        "AssemblyName": "FrontEnd_TAS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FrontEnd_TAS.Pages.EnrollmentPages"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FrontEnd_TAS.Pages.EnrollmentPages",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -543,6 +543,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "FrontEnd_TAS.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -536958075,
+        "Kind": "Components.Component",
+        "Name": "FrontEnd_TAS.App",
+        "AssemblyName": "FrontEnd_TAS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FrontEnd_TAS.App"
+        }
+      },
+      {
+        "HashCode": 1444239346,
+        "Kind": "Components.Component",
+        "Name": "FrontEnd_TAS.App",
+        "AssemblyName": "FrontEnd_TAS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FrontEnd_TAS.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FrontEnd_TAS.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13241,6 +13274,11 @@
     {
       "FilePath": "c:\\Users\\Dimas\\Front end\\FrontEnd_TAS\\Pages\\DetailStudent.razor",
       "TargetPath": "Pages\\DetailStudent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Dimas\\Front end\\FrontEnd_TAS\\Pages\\EnrollmentPages.razor",
+      "TargetPath": "Pages\\EnrollmentPages.razor",
       "FileKind": "component"
     },
     {

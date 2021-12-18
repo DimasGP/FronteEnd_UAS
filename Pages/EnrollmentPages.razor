@@ -1,0 +1,23 @@
+@page "/enrollmentpage"
+
+<h3>Pendaftaran</h3>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Course Id</th>
+            <th>Title</th>
+            <th>Credits</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var enrol in Enrollment){
+            <tr>
+                <td>@enrol.courserID</td>
+                <td>@enrol.title</td>
+                <td>@enrol.credit</td>
+            </tr>
+        }
+    </tbody>
+</table>

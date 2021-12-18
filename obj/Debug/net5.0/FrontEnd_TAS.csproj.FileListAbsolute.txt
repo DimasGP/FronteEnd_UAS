@@ -639,3 +639,5 @@ C:\Users\Dimas\Front end\FrontEnd_TAS\obj\Debug\net5.0\RazorDeclaration\Pages\De
 C:\Users\Dimas\Front end\FrontEnd_TAS\obj\Debug\net5.0\RazorDeclaration\Pages\UpdateStudent.razor.g.cs
 C:\Users\Dimas\Front end\FrontEnd_TAS\obj\Debug\net5.0\Razor\Pages\DeleteStudent.razor.g.cs
 C:\Users\Dimas\Front end\FrontEnd_TAS\obj\Debug\net5.0\Razor\Pages\UpdateStudent.razor.g.cs
+C:\Users\Dimas\Front end\FrontEnd_TAS\obj\Debug\net5.0\RazorDeclaration\Pages\EnrollmentPages.razor.g.cs
+C:\Users\Dimas\Front end\FrontEnd_TAS\obj\Debug\net5.0\Razor\Pages\EnrollmentPages.razor.g.cs
