@@ -332,35 +332,35 @@
         }
       },
       {
-        "HashCode": -312287342,
+        "HashCode": -536958075,
         "Kind": "Components.Component",
-        "Name": "FrontEnd_TAS.Pages.EnrollmentPages",
+        "Name": "FrontEnd_TAS.App",
         "AssemblyName": "FrontEnd_TAS",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "EnrollmentPages"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FrontEnd_TAS.Pages.EnrollmentPages"
+          "Common.TypeName": "FrontEnd_TAS.App"
         }
       },
       {
-        "HashCode": 625338492,
+        "HashCode": 1444239346,
         "Kind": "Components.Component",
-        "Name": "FrontEnd_TAS.Pages.EnrollmentPages",
+        "Name": "FrontEnd_TAS.App",
         "AssemblyName": "FrontEnd_TAS",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "FrontEnd_TAS.Pages.EnrollmentPages"
+            "TagName": "FrontEnd_TAS.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FrontEnd_TAS.Pages.EnrollmentPages",
+          "Common.TypeName": "FrontEnd_TAS.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -543,39 +543,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "FrontEnd_TAS.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -536958075,
-        "Kind": "Components.Component",
-        "Name": "FrontEnd_TAS.App",
-        "AssemblyName": "FrontEnd_TAS",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FrontEnd_TAS.App"
-        }
-      },
-      {
-        "HashCode": 1444239346,
-        "Kind": "Components.Component",
-        "Name": "FrontEnd_TAS.App",
-        "AssemblyName": "FrontEnd_TAS",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FrontEnd_TAS.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FrontEnd_TAS.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
